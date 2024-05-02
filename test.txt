@@ -1,2 +1,3 @@
 test pull
 edited in GUI
+test from cmd
